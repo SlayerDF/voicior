@@ -1,0 +1,9 @@
+{
+  "name": "Voicior",
+  "version": "1.0.0",
+  "description": "Voicior is speech synthesis application",
+  "main": "app.js",
+  "repository": "https://github.com/SlayerDF/voicior",
+  "author": "SlayerDF <slayerdarkfly@gmail.com>",
+  "license": "MIT"
+}
